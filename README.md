@@ -1,6 +1,8 @@
 # XFCE4-dotfiles
 Just my configuration for XFCE
 
+For a preview look at 1.png and 2.png and 3.png in this repo
+
 ### Steps
 (these r more for me than for u)
 1. Download Xfce.
@@ -15,4 +17,5 @@ Just my configuration for XFCE
 10. Tip: If u use fish try out starship (starship.rs).
 11. Edit the panels and all in xfce as u wish.
 12. For picom in settings go to window manager tweaks and turn of display compositing and set picom to autostart when u log in.
-13. Log out and log back in for a whole new XFCE!
+13. For Zen browser transparency + blur I suggest using Zen Zero by Sameersaw (https://www.sameerasw.com/zen)
+14. Log out and log back in for a whole new XFCE!
